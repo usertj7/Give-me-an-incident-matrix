@@ -1,0 +1,9 @@
+﻿  list_graf.cpp
+c:\users\dell\source\repos\grafy\grafy\list_graf.cpp(67): warning C4838: conversion from 'const int' to 'SHORT' requires a narrowing conversion
+  graf_vector.cpp
+c:\users\dell\source\repos\grafy\grafy\graf_vector.cpp(101): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\grafy\grafy\graf_vector.cpp(118): warning C4838: conversion from 'const int' to 'SHORT' requires a narrowing conversion
+  graf_tab.cpp
+c:\users\dell\source\repos\grafy\grafy\graf_tab.cpp(159): warning C4838: conversion from 'const int' to 'SHORT' requires a narrowing conversion
+  Generating Code...
+  GRAFY.vcxproj -> C:\Users\DELL\source\repos\GRAFY\Debug\GRAFY.exe
